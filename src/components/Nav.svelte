@@ -6,7 +6,7 @@
   <div
     class="container mx-auto p-3 flex justify-between text-white font-semibold"
   >
-    <div><Link to=".">LOGO JBSI</Link></div>
+    <div><a href=".">LOGO JBSI</a></div>
     <div class="flex gap-3">
       <Link to=".">JBSI</Link>
       <Link to="pbsi">PBSI</Link>
